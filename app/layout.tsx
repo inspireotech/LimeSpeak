@@ -11,10 +11,10 @@ import { Toaster } from "@/components/ui/toaster";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "YOOM",
-  description: "Video calling App",
+  title: "LimeSpeak",
+  description: "LimeSpeak: Effortless, secure video meetings and collaboration. Connect, communicate, and collaborate seamlessly anytime, anywhere",
   icons: {
-    icon: "/icons/logo.svg",
+    icon: "/icons/logoo.png",
   },
 };
 
@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/yoom-logo.svg",
+            logoImageUrl: "/icons/LimeSpeak.png",
           },
           variables: {
             colorText: "#fff",
