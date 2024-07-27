@@ -16,7 +16,7 @@ const Navbar = () => {
             className="max-sm:size-10"
           />
           <Image
-            src="/icons/LimeSpeak.png"
+            src="/icons/limelogo.png"
             width={180}
             height={32}
             alt="LimeSpeak logo"
