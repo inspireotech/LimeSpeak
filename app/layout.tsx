@@ -27,7 +27,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: "iconButton",
-            logoImageUrl: "/icons/LimeSpeak.png",
+            logoImageUrl: "/icons/limelogo.png",
           },
           variables: {
             colorText: "#fff",
