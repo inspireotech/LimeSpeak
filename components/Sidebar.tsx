@@ -40,14 +40,14 @@ const Sidebar = () => {
           );
         })}
       </div>
-      <div className="mt-6 text-center">
+      <div className="mt-6 text-center ">
         <p className="text-sm">
           Developed by{' '}
           <a 
             href="https://inspireotechsolutions.com" 
             target="_blank" 
             rel="noopener noreferrer"
-            className="text-blue-400 underline"
+            className="text-blue-400 "
           >
             InspireoTech Solutions
           </a>
