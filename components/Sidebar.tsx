@@ -44,12 +44,12 @@ const Sidebar = () => {
         <p className="text-sm">
           Developed by{' '}
           <a 
-            href="https://inspireotechsolutions.com" 
+            href="https://limeoutservices.com/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="text-blue-400 "
           >
-            InspireoTech Solutions
+            Limeout Services
           </a>
         </p>
       </div>
